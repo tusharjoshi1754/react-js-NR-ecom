@@ -1,0 +1,6 @@
+{
+    "Name": "NR-eCom",
+    "API_URL": "http://gmtools.us-3.evennode.com/",
+    "Resource_URL": "http://gmtools.us-3.evennode.com/resources",
+    "Date_Format": "DD MMMM YYYY"
+}
